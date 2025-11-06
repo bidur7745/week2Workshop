@@ -1,0 +1,14 @@
+E:\IIC stuff\dot net\class dont net\WorkshopWeek2\bin\Debug\net9.0\WorkshopWeek2.exe
+E:\IIC stuff\dot net\class dont net\WorkshopWeek2\bin\Debug\net9.0\WorkshopWeek2.deps.json
+E:\IIC stuff\dot net\class dont net\WorkshopWeek2\bin\Debug\net9.0\WorkshopWeek2.runtimeconfig.json
+E:\IIC stuff\dot net\class dont net\WorkshopWeek2\bin\Debug\net9.0\WorkshopWeek2.dll
+E:\IIC stuff\dot net\class dont net\WorkshopWeek2\bin\Debug\net9.0\WorkshopWeek2.pdb
+E:\IIC stuff\dot net\class dont net\WorkshopWeek2\obj\Debug\net9.0\WorkshopWeek2.GeneratedMSBuildEditorConfig.editorconfig
+E:\IIC stuff\dot net\class dont net\WorkshopWeek2\obj\Debug\net9.0\WorkshopWeek2.AssemblyInfoInputs.cache
+E:\IIC stuff\dot net\class dont net\WorkshopWeek2\obj\Debug\net9.0\WorkshopWeek2.AssemblyInfo.cs
+E:\IIC stuff\dot net\class dont net\WorkshopWeek2\obj\Debug\net9.0\WorkshopWeek2.csproj.CoreCompileInputs.cache
+E:\IIC stuff\dot net\class dont net\WorkshopWeek2\obj\Debug\net9.0\WorkshopWeek2.dll
+E:\IIC stuff\dot net\class dont net\WorkshopWeek2\obj\Debug\net9.0\refint\WorkshopWeek2.dll
+E:\IIC stuff\dot net\class dont net\WorkshopWeek2\obj\Debug\net9.0\WorkshopWeek2.pdb
+E:\IIC stuff\dot net\class dont net\WorkshopWeek2\obj\Debug\net9.0\WorkshopWeek2.genruntimeconfig.cache
+E:\IIC stuff\dot net\class dont net\WorkshopWeek2\obj\Debug\net9.0\ref\WorkshopWeek2.dll
