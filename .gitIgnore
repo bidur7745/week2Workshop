@@ -1,2 +1,53 @@
 bin
 obj
+
+.vs
+*.user
+*.suo           
+*.cache
+*.log
+
+    # User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+[Bb]in/
+[Oo]bj/
+
+# NuGet Packages
+*.nupkg
+**/packages/*
+# Except build/, which is used as an MSBuild target
+!**/packages/build/
+# Uncomment if necessary; generally it will be regenerated when needed
+#!**/packages/repositories.config
+
+# MSTest test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.htm
+
+# Visual Studio cache files
+.vs/
+
+# Visual Studio profiler
+*.psess
+
+# Resharper files
+*.resharper
+*.dotSettings
+
+# Rider files
+.idea/
+*.sln.iml
+
+# Miscellaneous
+*.log
+*.tmp
+*.bak
+*.scc
