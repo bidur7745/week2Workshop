@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace workshop3
 {
-    internal class NullOperation
+    internal class NullOpe
     {
         string username = null;
         public string checknull() {
